@@ -1,4 +1,5 @@
 
+
 # Plagiarism Checker and AI Text Detection
 
 This is a Flask web application that serves as a Plagiarism Checker and AI Text Detection tool. It allows users to input a query and checks for plagiarism by comparing it with a pre-existing database. Additionally, it includes a feature to detect if the input text is AI-generated.
